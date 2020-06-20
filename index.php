@@ -1,8 +1,3 @@
-Welcome to My Cloud
+<body bgcolor="#000000">
+<h1 style="color:white;">Welcome to My Cloud</h1>
 <br/>
-<img src="imgs/terraform.jpg" alt="terraform" width="400" height="300"/>
-<pre>
-<?php>
-print `ifconfig`;
-?>
-</pre>
