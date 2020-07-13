@@ -1,4 +1,4 @@
-# Deploy Webserver by Integrating AWS with Terraform  
+# Deploy Webserver with CloudFront using Terraform  
 
 <img src="imgs/main.png" alt="Terraform with AWS" height=400>
 
